@@ -1,0 +1,29 @@
+{
+  "name": "usercreation",
+  "version": "1.0.0",
+  "description": "testscript to create user using client apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Demo",
+    "CometChat",
+    "User",
+    "Creation"
+  ],
+  "author": "gajraajay",
+  "license": "ISC",
+  "dependencies": {
+    "@cometchat-pro/chat": "^2.0.0-beta10",
+    "browser-env": "^3.2.6",
+    "child_process": "^1.0.2",
+    "csv-export": "^1.0.2",
+    "csv-write-stream": "^2.0.0",
+    "json2csv": "^4.0.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "save": "^2.4.0",
+    "threads": "^1.0.0-beta.5"
+  }
+}
